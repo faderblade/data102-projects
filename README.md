@@ -1,2 +1,2 @@
 # data102-projects
-Data Mining and Statistics Class
+All outputs from my Data Mining and Statistics class are compiled here.
