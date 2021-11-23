@@ -5,4 +5,4 @@ Through this project, we were able to conduct Logistic Regression to determine t
 
 You may find the summary of our project here.
 
-![INFOGRAPH]! (https://www.canva.com/design/DAEqaiO6Uzg/wih6GNZ2tJCSycvGefZOzw/view?utm_content=DAEqaiO6Uzg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![INFOGRAPH](https://github.com/faderblade/kivaloan-logitprediction/blob/main/Gr4_DATA102-Infographic%20(4).png)
